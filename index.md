@@ -1,293 +1,321 @@
+---
+title: Security advice for Lib Dem Activists
+---
+
+# Why you should follow this advice
 
 Remember that as a **political activist of any kind**, you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically. They are ranked in rough descending order of priority.
 
+The good news is, if you follow these guidelines, you will have a high level of protection against experiencing what Dr. Liz, our candidate in Uxbridge and South Ruislip, [experienced](https://twitter.com/EvendenKenyon/status/1156223496017440768).
 
-The good news is, if you follow these guidelines, you will have a high level of protection against being [‘Podesta-ed’](https://en.wikipedia.org/wiki/Podesta_emails). The easiest way to get this protection is to form good security habits before you need them.
+The easiest way to get this protection is to form good security habits before you need them.
+
+# How to use this guide
+This guide is a prescriptive list of things we recommend. It doesn't leave space for edge cases or "customisation" so take it at face value. We have put our reasoning in a second document, [here](why.html), which will allow you to customise it for your needs if you feel confident.
+
+This advice should be easy to use for most people.
+
+# Hardware
+## Phone
+Your phone will probably be the most secure device available - it's also always with you, meaning it's less likely to be compromised (or stolen) while you're away from it.
+
+If in doubt, do it on your phone.
+
+### Choosing a new phone
+- If you can afford it, get an iPhone, they're nominally more secure and much easier to keep updated.
+- If you cannot afford an iPhone or strongly prefer Android phones, buy a phone from the [Android One](https://www.android.com/intl/en_uk/one/) or [Android Go](https://www.android.com/versions/go-edition/) range since they get regular updates directly from Google.
+
+### Updates
+You _must_ make sure it's still getting updates from your manufacturer - any criminal worth their salt will be using exploits that target old bugs that have since been fixed.
+
+#### iPhone
+- If you have an iPhone 6S or 6S Plus, or newer, you are [currently still getting updates](https://en.wikipedia.org/wiki/IPhone#History_and_availability).
+- The iPhone 6 and 6 Plus are out of support, so are any devices released before them. **Stop using these phones, upgrade**.
+- Ensure you have the latest update. Do this by going to `Settings > General > Software Update`, tap `Download and Install`, then `Install`. Or [follow this guide](https://support.apple.com/en-gb/HT204204).
+
+#### Android
+- It's much more complicated to find out if an Android phone is getting regular updates, and can be affected by both your phone manufacturer and network. Contact your manufacturer.
+- Ensure you have the latest update. Do this by going to `Settings > System > Advanced > System Update`, tap `Check for Update`. These instructions may vary from phone to phone.
+
+### Backups
+Without backups, if you lose or break your phone (or it breakt itself) you lose everything on your phone.
+
+#### iPhone
+- Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). Do it.
+- Go to `Settings > <your name> > iCloud > Backup` and turn on `iCloud Backup`.
+- Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight.
+- Periodically check back to see that backups are completing.
+
+#### Android
+- Backups are done through Google One and you _will_ have to [buy a plan](https://one.google.com/about). Do it.
+- Install the [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) app.
+- Open the Google One app, go to `Settings > Manage backup settings` and tick everything except `Back up using mobile data`.
+- Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight.
+- Periodically check the `Home` tab of the Google One app to see that backups are completing.
 
 
-Please don’t hesitate to contact us with questions.
+### Misc
+- Go through your phone and delete anything you're not currently using. Every app is a vector for attack; less apps are more safe.
+- Consider resetting your phone back to factory settings:
+  - This is a very effective way of clearing up your device (because it deletes everything)
+  - It is also a good opportunity to test your backups (better now than in the heat of a campaign)
+- Limit apps' permissions to the minimum possible. If in doubt, remove the permission from the app and see what breaks - you can always give it back!
+  - On iPhone go to `Settings > Privacy` and go through each category in turn.
+  - On Android go to `Settings > Privacy > Permission manager` and go through each category in turn.
+- **Do not sideload apps**. This is where applications are installed by downloading a file ending `.apk` instead of installing it from the app store/play store. It is disabled by default on both Android and iPhones.
 
-# How to use this Guide
-This guide is intended to contain a list of easy-to-follow activities.
 
-- The bullet points are direct actions you can take
+### Unlocking your phone
+- Ensure you use a strong, long passphrase or pin on your phone (even with fingerprint or Face ID).
+  - **Don't share this with anyone**, and if you do then reset it afterwards.
+- Face ID and fingerprint unlocking _is_ safe, but remember the risks:
+  - Face ID can be unlocked by another person pointing your phone at you before running off.
+  - Fingerprint unlock can be used by someone touching your phone to your finger while you're asleep (e.g. on a flight).
+  - You can temporarily disable this on most phones, forcing a PIN unlock:
+    - On iPhone hold down the side button and either volume button for two seconds.
+    - On Android this needs Enabling first. Go to `Settings > Display > Advanced > Lock screen display` and enable `Show lockdown option`. Then after you lock your phone, press and hold the power button until the menu comes up and tap `lockdown`.
 
-Other text is extra information or useful context. If you are in a rush, feel free to only follow the bullet points.
+## Computer
+Computers are often much less secure, especially Windows computers. Generally, avoid using a computer for confidential information where possible.
 
-# Securing your online presence
-This section will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the [Going Further](#going-further) section. 
+### Choosing a new computer
+- If you don't need to use a specific Windows application (e.g. Pageplus) then **buy a Chromebook**. These are _very_ secure, but check the limitations.
+  - [Check to see](https://support.google.com/chrome/a/answer/6220366?hl=en) when auto-updates end on the chromebook you plan on buying (5 years after the computer first went on sale). Once they end you will need a new one.
+- If you must use applications like PagePlus then you'll need a Windows computer.
+- Macs are less secure than Chromebooks and work with less software than Windows.
 
-## Updates
+### Updates
+Updates are _essential_ to ensuring your computer stays at least somewhat secure - any criminal worth their salt will be using exploits that target old bugs that have since been fixed.
 
-By far the most important piece of advice we can give is: keep all your software up to date.
+#### Chromebook
+- Chromebooks get five years of updates from the day the computer went on sale.
+- You will get update notifications and it will auto-update.
+- Updates are usually completed in minutes.
+- When support runs out you will get a notification to tell you - _stop using it and buy a new one_.
 
-- Turn on auto-updates on your phone and laptop, and don’t wait to apply them.
+#### Windows
+- All computers _must_ be running Windows 10 and Windows update _must_ be enabled.
+  - Check your Windows version [using this guide](https://support.microsoft.com/en-gb/help/13443/windows-which-version-am-i-running).
+  - Check Windows updates using [this guide](https://support.microsoft.com/en-gb/help/4027667/windows-10-update).
+- Don't ignore update notifications, save your work and follow the instructions.
+  - Yes, they can take a long time. It doesn't matter. Update to stay safe.
 
-## Anti-Virus
+#### Mac
+- All Macs _must_ be running macOS 10.14 (Mojave) and updates _must_ be enabled.
+  - Check your macOS version [using this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14).
+  - Check automatic updates are enabled using [this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14).
+- Don't ignore update notifications, save your work and follow the instructions.
+  - Yes, they can take a long time. It doesn't matter. Update to stay safe.
 
-- Keep your Anti-Virus up to date. **Do not *ever* attempt use pirated antivirus software.**
 
-- If your antivirus is set up by your employer, leave the settings as-is.
+### Backups
+Without backups, if your computer goes missing or goes wrong you will lose everything.
 
-Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software.
+#### Chromebook
+- Chromebooks are automatically backed up for ChromeOS applications, with the important exception of the `Downloads` folder
+- If your Chromebook supports Android applications (and you're using them) you can use the Android backup instructions to back them up
 
-Macs do not need any antivirus to be set up; it is built in to macOS.
+#### Windows & Mac
+- Backing up a Windows or Mac machine is more complex
+  - There's often too much data to do it online
+  - This means you may need to buy new hardware
+  - It also makes automated backups harder
+- Avoid having to back up:
+  - Do everything in [Google Chrome](https://www.google.co.uk/chrome/)
+  - Install [Google Backup and Sync](https://www.google.com/drive/download/)
+  - Ensure everything you can't do in Google Chrome (e.g. PagePlus documents) is sync'd to Google Drive using Google Backup and Sync
+
+### Encryption
+It's imperative that your computers are encrypted - if you don't do this, someone can simply bypass login and pick files straight off your computer:
+- Chromebooks are encrypted by default
+- On Windows, follow [this guide](https://support.microsoft.com/en-gb/help/4028713/windows-10-turn-on-device-encryption). You might have to upgrade to the Pro version of Windows 10. If so, do it.
+- On a Mac, enable FileVault using [this guide](https://support.apple.com/en-gb/HT204837)
+
+### Antivirus
+- On Chromebooks antivirus is built-in
+- On a Mac antivirus is built-in
+- On Windows 10 antivirus is now built-in, make sure it's enabled using [this guide](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
+- Delete any other antivirus products
+
+### Browser
+- Use [Google Chrome](https://www.google.com/chrome/) as your default browser on your laptop (On Chromebook this is already the default)
+- Install and use the [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) browser extension
+  - This blocks adverts and other scripts on websites that can do bad things
+- Avoid using other extensions, as they have access to your browsing activity
+- Use incognito mode whenever you want your browsing history to not be logged
+  - Remember, incognito mode will not stop your ISP or anyone else logging your browsing history
+
+
+### Misc
+- Chromebooks being cluttered can't really harm you. If you run out of space, delete stuff
+- On Windows and Mac, be sure to delete apps you don't use and/or are of dubious origin
+- If you have a Windows PC, I recommend rebuilding it regularly:
+  - This is a very effective way of clearing up your device (because it deletes everything)
+  - It is also a good opportunity to test your backups (better now than in the heat of a campaign)
+  - Find a friendly local computer helper to help you with this
+- If you have a problem with a Mac, go to the local Apple store - it's free IT support
+- _Never_ use USB drives (flash drives) - use Google Drive instead.
+
+
+# Communications
+We need to talk, to collaborate and organise - and this will be taken advantage of by malicious actors (opponents, journalists, mischief-makers).
+
+## Face to face
+Face to face communication can seem secure since there's nothing recording you. There might be.
+- Lower your voice. If you're in a bar or public area, assume someone's eavesdropping
+- Some people record their conversations with their phone, without admitting to it, so assume they are
+- For confidential conversations retire to a private space and ask people to ensure they're not recording
+
+(You may think this is weird but I've recently noticed one of our local party executive members has been recording all our meetings with his phone, so that he can take notes later. He doesn't tell anyone he's doing that, nor do we know how carefully he handles/disposes of those recordings)
+
+## Phone calls
+Phone calls are perfect for remotely sharing information without it being recorded (usually).
+- Before speaking to someone, ask them if they're on loudspeaker or in earshot of anyone else
+- Some people will use call recording applications on their phones, so assume they are
+
+## WhatsApp
+
+[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service _you_ will use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
+
+- Always have conversations on WhatsApp - never use SMS/Email/etc for internal communications
+- Make sure messages only go to people that need to see them.
+  - Don't send out confidential information to groups of volunteers when only a few specific people need that information.
+  - Leaks from members (in the pub, boasting to journalists, etc) are common.
+- **Don't write anything down you can't risk leaking**
+  - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
+  - Phone them instead
+- On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
+  - _Always_ log out afterwards, or someone else can use your computer to see your messages
 
 ## Email
+Email is _very insecure_. Unfortunately it's also very important. Never use it for anything that needs to be kept secret unless you have to.
+- Use Gmail for your personal email
+  - Install the Gmail app on your phone
+  - Install Google Chrome on your computer
+  - _Never_ access Gmail using anything else
+- _Never_ use email for confidential information (use WhatsApp instead)
+- _Never_ share documents/files through email (use Google Drive instead)
+- _Never_ give any apps permissions to read or write your email inbox
 
-Your personal email account holds the keys to your online life, and will be the primary target for attackers.
-- Use Gmail for your personal email, and Chrome as your web browser.
-
-- Don’t have sensitive conversations over email. Use WhatsApp (see below).
-
-- Don’t give any apps permissions to read or write your email inbox.
-- **Make sure your email is protected with by multi factor authentication.**
-    - If you can afford to purchase a [security key (£20, 
-recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) and follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
-     _If you're planning on buying more than 1 Security Key, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)_
-    - Otherwise, use app-based multi factor authentication; [click here and follow this guide](https://authy.com/guides/gmail/)
-
-## Attachments
-
+### Attachments
 Attachments are one of the biggest risks you face. Even attachments coming from a trusted sender are a danger; if someone you know gets their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
 
-Here is the hierarchy of attachment safety, from safest to most risky:
-
-1. Safest is to open them on an iPhone
-1. Save them directly to Google Drive from Gmail. If you hover over an attachment in Gmail, you’ll see a ‘save in Google Drive’ icon. Open them in Google Drive
-1. Download them to disk, and upload them to Google Drive in your browser.  Make sure you delete the downloaded file, so you don’t accidentally double-click it in the future.
-
-The least safe way to open an attachment is to double-click it on your laptop.  **Never do this.**
+- Avoid sending attachments (use Google Drive instead)
+- Encourage your team to use Google Drive to share documents
+- Default to opening attachments on your phone instead of your computer
+- Where necessary to open it on a computer, make sure not to click any "Administrator" prompts
+- If the attachment doesn't open as expected or something weird happens, shut down the computer and find your friendly local computer helper.
 
 
-## Sharing Files
+# Data
+We need to share data, and this should be broken down in to three categories:
+- Protected (voter data etc)
+- Classified (campaign plans etc)
+- Unclassified (poster files etc)
 
-- Get out of the habit of sending attachments. Instead, send links to a Google document.
+## Protected Data
+Any data about a voter is protected by both the Data Protection Act and the General Data Protection Regulation.
+- Store and edit this data in the following tools _only_:
+  - Connect/MiniVAN
+  - Salesforce
+  - Nationbuilder
+  - Foci2 (Prater Raines)
+  - Mailchimp (only if properly authorised)
+- _Never_ extract or store data outside of these products.
+  - If you do you may be breaking the law!
 
-- Don’t use file sharing services like Dropbox or Evernote. Stick to Google Drive.
+## Classified Data
+Any data that you don't want to get in to a rival's hands (or the press) must be kept safe and shared carefully.
+- Use [Google Drive](https://www.google.com/drive/) to store data
+- Use the sharing feature to share specific documents and folders with specific people
+  - When sharing, ensure that only `Specific people can access` is set
+  - Ensure you tick `Prevent editors from changing access and adding new people`
+  - Remember that when you share a folder, the whole contents will be shared with everyone on the list
+  - Periodically check share lists and prune accordingly
+  - Only share with the smallest number of people who _need_ access
+- Avoid printing data
+  - Buy a shredder
+  - Shred everything you print
+- _Never_ share data using email
 
-## Phone
+## Unclassified Data
+Any data that isn't sensitive can be given a wider reach.
+- Use [Google Drive](https://www.google.com/drive/) to store data
+- Use the sharing feature to create a "shared" folder and share with anyone you like
+  - _Ensure Classified and Unclassified data are kept in separate folders!_
+- Additionally, feel free to share this data via email or Facebook or anything else
 
-- Given the choice, use an iPhone over Android.
-
-- Uninstall apps you are not regularly using; if you need them again you can always reinstall them.
-
-- Limit apps' permissions to the minimum possible.
-    - If an app asks for lots of unexplained permissions, uninstall it (do you really want a flashlight app that needs access to your camera, messages & contacts?)
-
-- Make sure you have at least a 4-digit key code or passphrase 
-    - Avoid using dates in your passcode.
-    - 6 digits is better than 4; the number of possible codes goes from 10,000 to 1,000,000!
-
-### iPhone
-
-- Your phone needs to be receiving software updates from its manufacturer; at publication all iPhones newer than model 6 meet this.
-
-Your iPhone is the most secure device you have. Do whatever work you can on it. It is always better to read email, use Signal, and surf the web on your phone.
-
-TouchID/FaceID is safe to use, but Siri is not. Siri can reveal information about your contacts even when the phone is locked.
-
-### Android:
-
-- Your phone *needs* to be receiving software updates from its manufacturer.
-
-- **Do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
-
+# Security
 ## Passwords
-- Install and use a password manager on all your devices. [LastPass](https://www.lastpass.com/) offers a free version which lets you generate secure passwords and share them securely between your devices.
+Weak passwords are a common way of breaking in to computers. Most passwords under 8 characters can be broken in minutes, some in seconds.
 
+- Install [LastPass](https://www.lastpass.com/) on your phone and in Chrome
+- Add all your usernames and passwords to LastPass
+- Use the password generator to create random, unique replacement passwords for all sites
+- Use the [LastPass Security Challenge](https://helpdesk.lastpass.com/lastpass-security-challenge/) to check your passwords are secure.
+- Use a [passphrase](https://xkcd.com/936/) for your master password:
+  - Choose four or more random words (e.g. battery, horse, staple, correct)
+    - Ensure they're actually random, they can't be a cogent sentence
+    - Try flipping through a book and picking words at random
+    - Avoid common words like conjunctives (and, or, etc)
+  - Piece them together in to a single phrase with capital letters (`BatteryHorseStapleCorrect`)
+  - Swap one or two letters out for numbers and/or symbols (`B4tteryH0rseSt4pleC0rrect!`)
+  - Keep logging in and out of LastPass until you remember the password automatically
 - **Don’t reuse the same passwords** (or similar passwords) across sites
     - Most successful hijacks are done by trying people's passwords from another, poorly secured website.
-- Use the password manager to create long, unique and completely random passwords which are automatically entered in to the password field.
 
-- For your "master" password, create a long memorable passphrase rather than a short, random and hard-to-remember password.
-    - [Consider this comic](https://xkcd.com/936/).
-    - Combined with Multi-Factor Authentication this will make for a very secure password store.
-
-- Use LastPass' [Security Challenge](https://helpdesk.lastpass.com/lastpass-security-challenge/) regularly
-
-- Move all your critical account passwords (email/Facebook/Twitter/etc.) to LastPass stored/generated ones.
-    - Progressively move other accounts over to LastPass as you log in to them naturally.
-
-## Laptop
-
-Remember that your phone is always more secure than your laptop.
-
-- Never put USB drives (flash drives) in your computer. This is an extremely common attack route. Plugging anything into a USB port is high risk.
-
-If you have a Windows laptop, make sure it’s running Windows 10.
-
-Enable full disk encryption:
-
-#### If you have Windows 10 Home:
-
-1. Go to: Start > Settings > System > Security > Device Encryption
-
-1. Click `Turn on`
-    -  If it’s not there or greyed out, your computer does not support the limited encryption feature that Home supports.
-
-#### If you have Windows 10 Pro:
-
-1. Right-click on Start > Control Panel > BitLocker Drive Encryption > Turn on BitLocker
-    - If it says you don’t have a TPM, [here’s how to use BitLocker without a TPM](https://www.howtogeek.com/howto/6229/how-to-use-bitlocker-on-drives-without-tpm/)
-
-#### If you have a Mac:
-
-- [Click here and follow this guide](https://support.apple.com/en-gb/HT204837)
-
-
-### Other kinds of computers
-- If possible, consider getting a Chromebook.
-    - This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
-    - If all you will be doing is managing emails, browsing websites & writing documents in Google Docs, it will easily suffice.
-
-## Text Messages
-
-- Use WhatsApp for sending text messages, and for group chat.
-
-- **Avoid SMS (regular text messages)** or iMessage for private messaging.
-    - If you must use Facebook Messenger, make sure to turn on private conversations.
-
-- Treat Twitter public forum
-    - (Even if you use the private message features)
-
-## Facebook
-
-- Turn on two-factor authentication in Facebook.
-    - If you have a security key (£20, see above) [click here and follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
-    - Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/) for app-based MFA:
-
-- Take your phone number off your Facebook account.
-
-## Twitter
-
-- Assume that anything you say in Twitter direct messages will one day be public.
-
-- Turn on two-factor authentication in Twitter
-    - If you have a security key (see above), [click here and follow this guide](https://techsolidarity.org/resources/security_key_twitter.html)
-    - Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
+## PINs
+PINs are very insecure since there are much less combinations of numbers to try than there are letters.
+- If you can, use a longer PIN. 6 numbers is better than 4
+- Don't use dates, they are the first thing people will try
+- Use a PIN phrase:
+  - Choose a word that's longer than your PIN
+  - Type that word out using the letters on a number pad
+  - This is easier to remember and much more secure
 
 ## Multi-Factor Authentication
+Using a username, password, and something else is much more secure than just a username and password.
+- Install `Authy` on your phone and go through the setup process
+- Set up all your online accounts with 2FA using [this guide](https://authy.com/guides/)
+- When you log in with your username and password, you will additionally have to enter a number from the `Authy` app on your phone in future.
 
-- If you haven't already, install [Authy](https://authy.com/) on your phone and follow [their guides](https://authy.com/guides/) to set up any other online accounts you have
-    - Sometimes this is referred to as TOTP, 2FA, MFA or "Google Authenticator". You will scan a 2D barcode and then the app will create new six-digit codes every 60 seconds. The Security Key we [recommended earlier](#email) is the most secure form of this.
-    - Not all accounts support security keys, so use follow the Authy guides for them.
-    - Set up LastPass using [this guide](https://support.logmeininc.com/lastpass/help/enable-multifactor-authentication-lp010002)
-
-**Multi-Factor Authentication and a Password manager makes it so hard to break in to your online accounts most attackers would just give up!**
-
-
-## Browser
-
-- Use Google Chrome as your default browser on your laptop.
-
-- On your iPhone, use Safari.
-
-- On your Android, use Chrome.
-
-- Install and use the [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) browser extension.
-- Install and use the  [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) Chrome browser extensions.
-- Avoid using other extensions, as they have access to your browsing activity .
-
-- Make a habit of using incognito mode.
-
-- If you are visiting websites that you feel are particularly dodgy, consider using a Chromebook for the purpose, or your phone.
-
-
-## Slack
-
-- Treat Slack messages like they will enter the public domain in the future
-    - (Even if you use the private message features)
-
-- It’s fine to use Slack for coordinating and organizing, _but be mindful of the conversations you have there._ Move private discussions to Whatsapp.
+## Logging out
+- _Always_ log out of a website when you've finished using it on your computer
+- _Never_ leave Facebook, WhatsApp, Twitter or anything else logged in
+  - Even if it's your own computer
 
 ## Wi-Fi
+If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
+- Only use trusted Wi-Fi networks (your home, your office, etc)
+  - Other Wi-Fi networks may track and steal your data
+  - Other people on the same Wi-Fi network could track and steal your data
+- Otherwise, use your phone
+  - Browse directly from the mobile phone, or
+  - Create a Wi-Fi hotspot which you can connect your other device to
+    - On iPhone, [follow this guide](https://support.apple.com/en-gb/HT204023)
+    - On Android, follow [this guide](https://support.google.com/android/answer/9059108)
+    - *Use a long password for any Wi-Fi hotspots you create*
 
-- If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
+# Online Presence
+It's important to be active online, but it's also dangerous. If someone compromises your account and writes something nasty pretending to be you, you'll have to spend precious campaign time trying to explain that it wasn't you. Don't fall victim.
 
-**Do not use Wi-Fi you cannot trust**.
-
-- If you must get online, use your mobile phone's 4G connection instead. Either:
-    - browse directly from the mobile phone
-    - create a Wi-Fi hotspot which you can connect your other device to. *Use a long password for any Wi-Fi hotspots you create.*
-
-
-## Getting Help
-
-If you need help, or feel out of your depth, or there are mysterious white vans outside your campaign HQ, contact us! We’ll do our best to connect you to security experts who can give you additional training.
-
-Our goal is to help keep you safe without overwhelming you. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
-
-## 7 Day Walkthrough Guide
-
-The [New York Times](https://www.nytimes.com/programs/digital-security) has a very useful 7 day guide that walks you through many actions that overlap with this webpage, but with an additional focus on privacy.
-It is a well written guide, and a great way to spread out what can seem like an overwhelming amount of advice into managable chunks over the course of a week.
-
-You may wish to register for the 7 day guide, and go through it, using this webpage as a reference to come back to in the future.
-
-The days run as follows (with notes on how it differs to this guide):
-1. Set Up a Password Manager 
-    - Great explanations, they offer a choice of two password managers; both are great.
-2. Check Your Smartphone's Privacy Ssettings
-    - Good tips, focused on privacy rather than security
-3. Protect Your Browsing
-    - Excellent tips. The recommendation of [Privacy Badger](https://www.eff.org/privacybadger) is focused on privacy rather than security, and so isn't included in the guide above; installing it is still recommended!
-4. Protect Your Laptop
-5. Vaccinate Your Computer
-    - We don't feel you need to pay for MalwareBytes Premium, and haven't included it in our advice; it is still a good piece of software which some people might feel they need
-6. Get All The Updates
-7. Lock Down Your Most Important Accounts
-    - Has the right idea, but skips over using a security key, the most secure way of locking down accounts. We **strongly reccomend you use a security key** where possible, over app-based MFA. We reccomend you use our links above followed by [Authy's guide](https://authy.com/guides/)
+## Facebook
+- Turn on Multi-Factor Authentication in Facebook
+- Ensure you have a strong, unique password stored in LastPass
+- Only use Facebook for unclassified data
+  - Facebook is designed for sharing, not privacy
+  - There is no way to validate members on Facebook
+  - You must assume there are non-members, ex-members and rival party members pretending to be members in any private group
+- Treat every part of Facebook like a public forum
+- Take time to go through your [Activity Log](https://www.facebook.com/help/289066827791446)
+  - Not only old posts and pictures, but also liked pages etc
+  - Everyone has something embarrassing on their Facebook account
+  - Limiting your posts to friends isn't enough, make sure they're deleted!
 
 
-
-
-# Going Further
-**This section is not required for most activists**.
-
-But: it is **recommended for PPCs and their immediate teams**. 
-
-Even if you do not fall into that category, you will benefit from doing this. We have placed it into a separate section because the biggest gains in security come from the instructions above.
-
-## Google Advanced Protection
-- **Set up Google Advanced Protection**
-    - [follow the instructions here](https://landing.google.com/advancedprotection/).
-    - In order to do this you will need two Security Keys; [these cost around £20](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/).
-As before, if you're planning on buying more than 1, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)
-
-## Text Messages
-- Use [Signal](https://www.signal.org/download/) from Open Whisper Systems wherever possible.
-    - WhatsApp and Signal offer identical protection of your message content, but with WhatsApp Facebook will know everything about who you messaged and when. For this reason, we recommend upgrading to Signal.
-
-## Password Managers
-For individual use, Lastpass' free tier is a fantastic offering, but offers no good way of sharing passwords between teammembers or families; to get this you will need to use a paid product. 
-For use across your entire family, [1Password's Family](https://1password.com/families/) is excellent.
-
-## Increased Windows 10 Security
-UAC is an extremely useful security tool that comes with Windows 10. By default it is set to level 3 (out of 4). By setting it to 4 you will ask Windows to alert you any time something attempts to make a system change. **This will warn you if a virus tries to act as an administrator**.
-
-1. Click on the Windows icon in the start bar, and type `Change User Account Control settings`.
-1. A window should open with a slider; slide it to the top (`Always notify`), and click `Okay`. 
-1. Your screen will dim and you will get a prompt asking if you want to allow changes to be made to your device. _This is the kind of alert you will see from now on._
-1. Click `Yes`.
-
-## Anti-Virus
-
-The benefit of running commercial antivirus software is marginal at best. The built in Windows Defender consistently rates as the best anti virus software around.
-Uninstall your antivirus software and folow the below instructions to set up Windows Defender.
-
-
-
-**Only do this if you own the device, not on a computer owned or maintained by your employer**
-
-
-
-# Credits:
-
-This is a lightly edited version of Tech Solidarity's security guideline for Congressional campaigns, with input from Motherboard's Guide to Not Getting Hacked, and @swiftonsecurity's decentsecurity.com. Changes include making it easier to follow when there has been no in-person training accompanying it.
-
-## Links:
-- https://techsolidarity.org/resources/congressional_howto.html
-- https://decentsecurity.com/securing-your-computer/
-- https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
-- https://decentsecurity.com/#/how-you-get-infected/
+## Twitter
+- Turn on Multi-Factor Authentication in Twitter
+- Ensure you have a strong, unique password stored in LastPass
+- Assume that anything you say in Twitter direct messages will one day be public.
+- Take time to go through your past tweets and replies for embarrassing or compromising messages
+- Consider just deleting all messages older than a certain point with [TweetDelete](https://tweetdelete.net/)
