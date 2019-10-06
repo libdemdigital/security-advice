@@ -22,14 +22,14 @@ Your phone will probably be the most secure device available - it's also always 
 If in doubt, do it on your phone.
 
 ### Choosing a new phone
-- If you can afford it, get an iPhone, they're nominally more secure and much easier to keep updated.
+- If you can afford it, get an iPhone, they're generally more secure and much easier to keep secure.
 - If you cannot afford an iPhone or strongly prefer Android phones, buy a phone from the [Android One](https://www.android.com/intl/en_uk/one/) or [Android Go](https://www.android.com/versions/go-edition/) range since they get regular updates directly from Google.
 
 ### Updates
 You _must_ make sure it's still getting updates from your manufacturer - any criminal worth their salt will be using exploits that target old bugs that have since been fixed.
 
 #### iPhone
-- If you have an iPhone 6S or 6S Plus, or newer, you are [currently still getting updates](https://en.wikipedia.org/wiki/IPhone#History_and_availability).
+- If you have an iPhone 6S, 6S Plus or SE (or newer) you are [currently still getting updates](https://en.wikipedia.org/wiki/IPhone#History_and_availability).
 - The iPhone 6 and 6 Plus (and older models) are out of support. **Stop using these phones, upgrade**.
 - Ensure you have the latest update. Do this by going to `Settings > General > Software Update`, tap `Download and Install`, then `Install`. Or [follow this guide](https://support.apple.com/en-gb/HT204204).
 
@@ -102,7 +102,7 @@ Updates are _essential_ to ensuring your computer stays at least somewhat secure
   - Yes, they can take a long time. It doesn't matter. Update to stay safe.
 
 #### Mac
-- All Macs _must_ be running macOS 10.14 (Mojave) and updates _must_ be enabled.
+- All Macs _must_ be running macOS the newest version of macOS and updates _must_ be enabled.
   - Check your macOS version [using this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14).
   - Check automatic updates are enabled using [this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14).
 - Don't ignore update notifications, save your work and follow the instructions.
@@ -324,4 +324,3 @@ It's important to be active online, but it's also dangerous. If someone compromi
 - Ensure you have a strong, unique password stored in LastPass
 - Assume that anything you say in Twitter direct messages will one day be public.
 - Take time to go through your past tweets and replies for embarrassing or compromising messages
-- Consider just deleting all messages older than a certain point with [TweetDelete](https://tweetdelete.net/)
