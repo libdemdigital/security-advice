@@ -285,6 +285,7 @@ PINs are very insecure since there are much less combinations of numbers to try 
 ## Multi-Factor Authentication
 Using a username, password, and something else is much more secure than just a username and password.
 - Install `Authy` on your phone and go through the setup process
+  - Remember to store your Authy Username/Password in LastPass
 - Set up all your online accounts with 2FA using [this guide](https://authy.com/guides/)
 - When you log in with your username and password, you will additionally have to enter a number from the `Authy` app on your phone in future.
 
