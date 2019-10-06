@@ -73,7 +73,8 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
   - Face ID can be unlocked by another person pointing your phone at you before running off.
   - Fingerprint unlock can be used by someone touching your phone to your finger while you're asleep (e.g. on a flight).
   - You can temporarily disable this on most phones, forcing a PIN unlock:
-    - On iPhone hold down the side button and either volume button for two seconds.
+    - On iPhones (8 and up) hold down the side button and either volume button for two seconds.
+    - 
     - On Android this needs Enabling first. Go to `Settings > Display > Advanced > Lock screen display` and enable `Show lockdown option`. Then after you lock your phone, press and hold the power button until the menu comes up and tap `lockdown`.
 
 ## Computer
