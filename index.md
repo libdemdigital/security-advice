@@ -144,7 +144,7 @@ It's imperative that your computers are encrypted - if you don't do this, someon
   - This blocks adverts and other scripts on websites that can do bad things
 - Avoid using other extensions, as they have access to your browsing activity
 - Use incognito mode whenever you want your browsing history to not be logged
-  - Remember, incognito mode will not stop your ISP or anyone else logging your browsing history
+  - Remember, incognito mode will **not** stop your ISP or anyone else logging your browsing history. It just stops it being saved locally on your computer.
 
 
 ### Misc
