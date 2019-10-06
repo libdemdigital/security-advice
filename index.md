@@ -47,7 +47,7 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
 - Periodically check back to see that backups are completing.
 
 #### Android
-- Backups are done through Google One and you _will_ have to [buy a plan](https://one.google.com/about). Do it.
+- Backups are done through Google One and you _will_ have to [buy a plan](https://one.google.com/about). 100GB (more than enough storage) is £1.59/month. Do it.
 - Install the [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) app.
 - Open the Google One app, go to `Settings > Manage backup settings` and tick everything except `Back up using mobile data`.
 - Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight.
