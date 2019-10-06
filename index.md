@@ -143,6 +143,8 @@ It's imperative that your computers are encrypted - if you don't do this, someon
 - Use [Google Chrome](https://www.google.com/chrome/) as your default browser on your laptop (On Chromebook this is already the default)
 - Install and use the [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) browser extension
   - This blocks adverts and other scripts on websites that can do bad things
+- Install and use the  [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) Chrome browser extensions.
+  - This forces sites to be more secure where possible 
 - Avoid using other extensions, as they have access to your browsing activity
 - Use incognito mode whenever you want your browsing history to not be logged
   - Remember, incognito mode will **not** stop your ISP or anyone else logging your browsing history. It just stops it being saved locally on your computer.
