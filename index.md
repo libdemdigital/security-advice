@@ -62,7 +62,8 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
 - Limit apps' permissions to the minimum possible. If in doubt, remove the permission from the app and see what breaks - you can always give it back!
   - On iPhone go to `Settings > Privacy` and go through each category in turn.
   - On Android go to `Settings > Privacy > Permission manager` and go through each category in turn.
-- **Do not sideload apps**. This is where applications are installed by downloading a file ending `.apk` instead of installing it from the app store/play store. It is disabled by default on both Android and iPhones.
+- **Never sideload apps**. This is where applications are installed by downloading a file ending `.apk` instead of installing it from the app store/play store. It is disabled by default on both Android and iPhones.
+- **Do not root or jailbeak your device**. This disables many of the security protections on your device.
 
 
 ### Unlocking your phone
