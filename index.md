@@ -263,7 +263,7 @@ Weak passwords are a common way of breaking in to computers. Most passwords unde
   - Swap one or two letters out for numbers and/or symbols (`B4tteryH0rseSt4pleC0rrect!`)
   - Keep logging in and out of LastPass until you remember the password automatically
 - **Don’t reuse the same passwords** (or similar passwords) across sites
-    - Most successful hijacks are done by trying people's passwords from another, poorly secured website.
+    - Most successful hijacks are done by trying taking people's passwords from one hacked website, and trying them on every single other website they can find.```
 
 ## PINs
 PINs are very insecure since there are much less combinations of numbers to try than there are letters.
