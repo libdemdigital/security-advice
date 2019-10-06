@@ -314,7 +314,7 @@ It's important to be active online, but it's also dangerous. If someone compromi
 
 
 ## Twitter
-- Turn on Multi-Factor Authentication in Twitter
+- [Turn on Multi-Factor Authentication in Twitter](https://authy.com/guides/twitter/)
 - Ensure you have a strong, unique password stored in LastPass
 - Assume that anything you say in Twitter direct messages will one day be public.
 - Take time to go through your past tweets and replies for embarrassing or compromising messages
