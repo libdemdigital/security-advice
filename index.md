@@ -38,7 +38,7 @@ You _must_ make sure it's still getting updates from your manufacturer - any cri
 - Ensure you have the latest update. Do this by going to `Settings > System > Advanced > System Update`, tap `Check for Update`. These instructions may vary from phone to phone.
 
 ### Backups
-Without backups, if you lose or break your phone (or it breakt itself) you lose everything on your phone.
+Without backups, if you lose or break your phone (or it breaks itself) you lose everything on your phone.
 
 #### iPhone
 - Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). Do it.
