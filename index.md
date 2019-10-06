@@ -55,7 +55,7 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
 
 
 ### Misc
-- Go through your phone and delete anything you're not currently using. Every app is a vector for attack; less apps are more safe.
+- Go through your phone and delete any apps you're not currently using. Every app is a vector for attack; less apps are more safe. If you think you *might* need it in future, you can always reinstall when the need arises.
 - Consider resetting your phone back to factory settings:
   - This is a very effective way of clearing up your device (because it deletes everything)
   - It is also a good opportunity to test your backups (better now than in the heat of a campaign)
