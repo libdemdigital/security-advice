@@ -300,7 +300,7 @@ If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn'
 It's important to be active online, but it's also dangerous. If someone compromises your account and writes something nasty pretending to be you, you'll have to spend precious campaign time trying to explain that it wasn't you. Don't fall victim.
 
 ## Facebook
-- Turn on Multi-Factor Authentication in Facebook
+- [Turn on Multi-Factor Authentication in Facebook](https://authy.com/guides/facebook/)
 - Ensure you have a strong, unique password stored in LastPass
 - Only use Facebook for unclassified data
   - Facebook is designed for sharing, not privacy
