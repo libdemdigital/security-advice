@@ -41,7 +41,7 @@ You _must_ make sure it's still getting updates from your manufacturer - any cri
 Without backups, if you lose or break your phone (or it breaks itself) you lose everything on your phone.
 
 #### iPhone
-- Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). Do it.
+- Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). 50GB (more than enough storage) is £0.79/month. Do it.
 - Go to `Settings > <your name> > iCloud > Backup` and turn on `iCloud Backup`.
 - Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight.
 - Periodically check back to see that backups are completing.
