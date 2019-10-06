@@ -30,7 +30,7 @@ You _must_ make sure it's still getting updates from your manufacturer - any cri
 
 #### iPhone
 - If you have an iPhone 6S or 6S Plus, or newer, you are [currently still getting updates](https://en.wikipedia.org/wiki/IPhone#History_and_availability).
-- The iPhone 6 and 6 Plus are out of support, so are any devices released before them. **Stop using these phones, upgrade**.
+- The iPhone 6 and 6 Plus (and older models) are out of support. **Stop using these phones, upgrade**.
 - Ensure you have the latest update. Do this by going to `Settings > General > Software Update`, tap `Download and Install`, then `Install`. Or [follow this guide](https://support.apple.com/en-gb/HT204204).
 
 #### Android
