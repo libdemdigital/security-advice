@@ -156,7 +156,12 @@ It's imperative that your computers are encrypted - if you don't do this, someon
   - Find a friendly local computer helper to help you with this
 - If you have a problem with a Mac, go to the local Apple store - it's free IT support
 - _Never_ use USB drives (flash drives) - use Google Drive instead.
-
+- **ALWAYS** lock your computer when you step away from it, even if its only for a few seconds.
+    - On Chromebook: `[Search Key]` + `L`.
+    - On Windows: press `[Windows Key]` + `L`
+    - On Mac: 
+        - Set your Mac to [require a password _immediately_ after being locked or put to sleep](https://support.apple.com/en-gb/guide/mac-help/mchlp2270/mac)
+        - Lock it using a shortcut, described [here](https://www.macworld.co.uk/how-to/mac/lock-mac-3639053/)
 
 # Communications
 We need to talk, to collaborate and organise - and this will be taken advantage of by malicious actors (opponents, journalists, mischief-makers).
