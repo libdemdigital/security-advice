@@ -4,9 +4,9 @@ title: Security advice for Lib Dem Activists
 
 # Why you should follow this advice
 
-Remember that as a **political activist of any kind**, you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically. They are ranked in rough descending order of priority.
+Remember that as a **political activist of any kind** you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically.
 
-The good news is, if you follow these guidelines, you will have a high level of protection against experiencing what Dr. Liz, our candidate in Uxbridge and South Ruislip, [experienced](https://twitter.com/EvendenKenyon/status/1156223496017440768).
+The good news is, if you follow these guidelines, you will have a high level of protection against [experiencing what Dr. Liz did](https://twitter.com/EvendenKenyon/status/1156223496017440768) (Dr. Liz is our candidate in Uxbridge and South Ruislip).
 
 The easiest way to get this protection is to form good security habits before you need them.
 
@@ -78,7 +78,7 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
     - On Android this needs Enabling first. Go to `Settings > Display > Advanced > Lock screen display` and enable `Show lockdown option`. Then after you lock your phone, press and hold the power button until the menu comes up and tap `lockdown`
 
 ## Computer
-Computers are often much less secure, especially Windows computers. Generally, avoid using a computer for confidential information where possible.
+Computers are often much less secure, especially Windows computers. Generally, avoid using a computer for confidential information where possible (though for many things this is not practical).
 
 ### Choosing a new computer
 - If you don't need to use a specific Windows application (e.g. Pageplus) then **buy a Chromebook**. These are _very_ secure, but check the limitations
