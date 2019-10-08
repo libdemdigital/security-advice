@@ -178,9 +178,16 @@ Face to face communication can seem secure since there's nothing recording you. 
 (You may think this is weird but I've recently noticed one of our local party executive members has been recording all our meetings with his phone, so that he can take notes later. He doesn't tell anyone he's doing that, nor do we know how carefully he handles/disposes of those recordings)
 
 ## Phone calls
-Phone calls are perfect for remotely sharing information without it being recorded (usually).
-- Before speaking to someone, ask them if they're on loudspeaker or in earshot of anyone else
-- Some people will use call recording applications on their phones, so assume they are
+Phone calls are perfect for remotely sharing information without it being recorded (usually). When making phone calls you have two options:
+
+1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
+    - It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
+1) **Call normally** using your phone.
+   - Use this when calling landline numbers or people who do not have WhatsApp.
+   - Try to convince your contacts to also use WhatsApp!
+
+- Before speaking to someone, ask them if you're on loudspeaker or if they're in earshot of anyone else
+- Some people will use call recording applications on their phones, so you should assume they are
 
 ## WhatsApp
 
