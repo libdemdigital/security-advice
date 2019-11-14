@@ -15,6 +15,38 @@ This guide is a prescriptive list of things we recommend. It doesn't leave space
 
 This advice should be easy to use for most people.
 
+# Table of contents
+- [Phone](#phone)
+  * [Choosing a new phone](#choosing-a-new-phone)
+  * [Updates](#updates)
+  * [Backups](#backups)
+  * [Misc](#misc)
+  * [Unlocking your phone](#unlocking-your-phone)
+- [Computer](#computer)
+  * [Choosing a new computer](#choosing-a-new-computer)
+  * [Updates](#updates-1)
+  * [Backups](#backups-1)
+  * [Encryption](#encryption)
+  * [Antivirus](#antivirus)
+  * [Browser](#browser)
+  * [Misc](#misc-1)
+- [Communications](#communications)
+  * [Face to face](#face-to-face)
+  * [Phone calls](#phone-calls)
+  * [WhatsApp](#whatsapp)
+  * [Email](#email)
+- [Data](#data)
+  * [Protected Data](#protected-data)
+  * [Classified Data](#classified-data)
+  * [Unclassified Data](#unclassified-data)
+- [Security](#security)
+  * [Passwords](#passwords)
+  * [PINs](#pins)
+  * [Multi-Factor Authentication](#multi-factor-authentication)
+  * [Logging out](#logging-out)
+  * [Wi-Fi](#wi-fi)
+- [Online Presence](#online-presence)
+
 # Hardware
 ## Phone
 Your phone will probably be the most secure device available - it's also always with you, meaning it's less likely to be compromised (or stolen) while you're away from it.
